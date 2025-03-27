@@ -1,4 +1,4 @@
-namespace API.models
+namespace API.Models
 {
     public class Carro
     {
