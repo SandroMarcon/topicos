@@ -5,6 +5,7 @@ namespace API.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public DateTime Criado { get; set; }
+        public Modelo Modelo { get; set; }
 
         public Carro()
         {
